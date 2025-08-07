@@ -1,8 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import AppNavbar from "./components/Navbar";
-import MovieList from "./pages/Home";
-import TopRated from "./pages/TopRated";
-import Upcoming from "./pages/Upcoming";
+import MovieList from "./pages/MovieList";
 import MovieDetail from "./pages/MovieDetail";
 import SearchResults from "./pages/SearchResults";
 
